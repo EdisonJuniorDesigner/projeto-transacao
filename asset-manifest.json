@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/projeto-transacao/static/js/main.9a560fa7.js",
+    "static/media/nu-logo-white.svg": "/projeto-transacao/static/media/nu-logo-white.ebb5ddd987661856a2a3bdf0020b8a27.svg",
+    "static/media/plus.svg": "/projeto-transacao/static/media/plus.5a793c996a0b5201a47a791df37799b0.svg",
+    "index.html": "/projeto-transacao/index.html",
+    "static/media/circle-check.svg": "/projeto-transacao/static/media/circle-check.e45da51ee707e81af9f5f83bb6365f6d.svg",
+    "static/media/circle-x.svg": "/projeto-transacao/static/media/circle-x.35d95ddf1f994f26e159d6afa434e674.svg",
+    "main.9a560fa7.js.map": "/projeto-transacao/static/js/main.9a560fa7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9a560fa7.js"
+  ]
+}
