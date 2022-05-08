@@ -1,6 +1,6 @@
 ### Projeto Nubank Transações
 
-![Nubank](https://raw.github.com/EdisonJuniorDesigner/guiaperguntas/master/src/assets/image1.png)
+![Nubank](https://github.com/EdisonJuniorDesigner/projeto-transacao/blob/master/src/assets/image1.png)
 
 ---
 
