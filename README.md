@@ -1,3 +1,35 @@
+### Projeto Nubank Transações
+
+![Nubank](https://raw.github.com/EdisonJuniorDesigner/guiaperguntas/master/src/assets/image1.png)
+
+---
+
+Projeto Edison Jr
+
+---
+
+Projeto Final do Módulo de React da NewTab, porém fiz a mudança completa do layout para parecer um banco que no caso escolhi o Nubank.
+
+## Tecnologias
+
+-   ReactJS
+-   Redux
+-   Styled Components
+-   Axios
+
+## Ferramentas
+
+-   Figma
+-   VSCode
+
+# Clonar este projeto
+
+```
+$ git clone https://github.com/EdisonJuniorDesigner/projeto-transacao
+```
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
